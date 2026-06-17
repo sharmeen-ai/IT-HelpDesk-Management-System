@@ -1,47 +1,31 @@
-# IT Help Desk Management System
+# 🖥️ IT Help Desk Management System
 
-## Project Overview
+A Python-based help desk ticketing system developed as part of the CompTIA IT Fundamentals (ITF+) Final Project.
 
-The IT Help Desk Management System is a Python-based application designed to simulate a real-world IT support environment. The system allows users to register, create support tickets, view submitted tickets, and update ticket statuses.
+## 🚀 Features
 
-This project was developed as part of the CompTIA IT Fundamentals (ITF+) Final Project to demonstrate knowledge of software applications, troubleshooting, data management, and basic programming concepts.
+- User Registration
+- Ticket Creation
+- Ticket Tracking
+- Ticket Status Updates
+- File-Based Storage
+- Command Line Interface
 
----
+## 🛠 Technologies Used
 
-## Features
+- Python 3
+- Visual Studio Code
+- Text Files
 
-* User Registration
-* Support Ticket Creation
-* Ticket Tracking
-* Ticket Status Updates
-* Data Storage Using Text Files
-* Simple Command-Line Interface
+## 📂 Project Structure
 
----
-
-## Technologies Used
-
-* Python 3
-* Visual Studio Code
-* Text Files (.txt)
-
----
-
-## Project Structure
-
-IT_HelpDesk_Management_System/
-
+```text
+IT-HelpDesk-Management-System
 ├── main.py
-
 ├── users.txt
-
 ├── tickets.txt
-
 ├── README.md
-
-└── screenshots/
-
----
+└── screenshots
 
 ## Installation
 

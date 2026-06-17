@@ -99,12 +99,10 @@ This project demonstrates:
 ---
 
 ## Author
-
-Student Name: ______________________
+Sharmeen Ahsan
 
 Course: CompTIA IT Fundamentals (ITF+)
 
-Submission Date: ______________________
 
 ---
 

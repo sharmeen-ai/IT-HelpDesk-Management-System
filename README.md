@@ -75,21 +75,21 @@ Select option 5 to close the application.
 
 ## 📸 Screenshots
 ### Main Menu
-![Main Menu](screenshots/menu,png.png)
+![Main Menu](screenshots/menu.png)
 
 ### Register User
-![Register User](screenshots/register_user.png.png)
+![Register User](screenshots/register_user.png)
 
 ### Create Ticket
-![Create Ticket](screenshots/create_ticket.png.png)
+![Create Ticket](screenshots/create_ticket.png)
 
 ### View Tickets
-![View Tickets](screenshots/view_ticket.png.png)
+![View Tickets](screenshots/view_ticket.png)
 
-![View Tickets](screenshots/view-ticket.png.png)
+![View Tickets](screenshots/view-ticket.png)
 
 ### Resolved Ticket
-![Resolved Ticket](screenshots/update_ticket.png.png)
+![Resolved Ticket](screenshots/update_ticket.png)
 ---
 
 ## Skills Demonstrated

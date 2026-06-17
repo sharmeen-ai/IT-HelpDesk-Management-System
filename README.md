@@ -74,6 +74,7 @@ python main.py
 Select option 5 to close the application.
 
 ## 📸 Screenshots
+
 ### Main Menu
 ![Main Menu](screenshots/menu.png)
 
@@ -86,10 +87,8 @@ Select option 5 to close the application.
 ### View Tickets
 ![View Tickets](screenshots/view_ticket.png)
 
-![View Tickets](screenshots/view-ticket.png)
-
-### Resolved Ticket
-![Resolved Ticket](screenshots/update_ticket.png)
+### Update Ticket Status
+![Update Ticket Status](screenshots/update_ticket.png)
 ---
 
 ## Skills Demonstrated
